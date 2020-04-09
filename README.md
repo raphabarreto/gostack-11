@@ -4,15 +4,17 @@
 
 <h3 align="center">Módulos do Bootcamp</h3>
 
-<p align="center">Neste repositório, você irá encontrar todos os módulos aprendidos durante o Bootcamp.</p>
+<p align="center">Olá! Seja muito bem-vindo ao lugar onde se encontra todo o conteúdo aprendido durante o Bootcamp GoStack 11 da Rocketseat.</p>
 
-<br/>
-
-* [Back-end com Node.js]()
 
 <hr/>
 
-<p align="center">Caso queira ver cada desafio realizado respectivamente, você pode encontrá-los neste <a href="https://github.com/raphabarreto/gostack11-modulos/tree/master/backend">link</a>.</p>
+<p align="center">Caso queira ver cada módulo aprendido respectivamente, você pode encontrá-los neste <a href="https://github.com/raphabarreto/gostack-11/tree/master/modulos/">link</a>.</p>
+
+
+<hr/>
+
+<p align="center">Caso queira ver cada desafio realizado respectivamente, você pode encontrá-los neste <a href="#">link</a>.</p>
 
 <hr/>
 
