@@ -2,8 +2,6 @@
   <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px">
 </h1>
 
-<h3 align="center">Módulos do Bootcamp</h3>
-
 <p align="center">Olá! Seja muito bem-vindo ao lugar onde se encontra todo o conteúdo aprendido durante o Bootcamp GoStack 11 da Rocketseat.</p>
 
 
