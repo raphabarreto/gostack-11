@@ -7,12 +7,17 @@
 
 <hr/>
 
-<p align="center">Caso queira ver cada módulo aprendido respectivamente, você pode encontrá-los neste <a href="https://github.com/raphabarreto/gostack-11/tree/master/modulos/">link</a>.</p>
+# Módulos 
+
+- [Conceitos Dev](https://github.com/raphabarreto/gostack-11/tree/master/conceitos-dev)
+- [Primeiro Projeto com Node.js](https://github.com/raphabarreto/gostack-11/tree/master/primeiro-projeto-node)
 
 
 <hr/>
 
 <p align="center">Caso queira ver cada desafio realizado respectivamente, você pode encontrá-los neste <a href="#">link</a>.</p>
+
+**Ainda em construção**
 
 <hr/>
 
@@ -27,6 +32,4 @@
 - ⚡ [React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html) -->
 ---
 
-Feito com 💖 por [Raphael Barreto](https://www.linkedin.com/in/raphael-barreto-15631747/)
-graças a [RocketSeat](https://rocketseat.com.br/)🚀
-
+Feito com 💖 por [Raphael Barreto](https://bit.ly/meu-Linkedin) graças a [RocketSeat](https://rocketseat.com.br/)🚀
